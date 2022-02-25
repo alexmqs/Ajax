@@ -1,2 +1,2 @@
 # Ajax
-Projeto em desenvolvido utilizando a técnica AJAX
+Projeto desenvolvido utilizando a técnica AJAX
